@@ -4,3 +4,5 @@ function f(a, b)
 f(1, 2)
 
 asd
+aaaa
+sd
